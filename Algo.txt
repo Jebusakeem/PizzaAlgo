@@ -1,3 +1,4 @@
 1. Choose favorite pizza
 2. Pay for the pizza
 3. Find place to eat
+4. Leave a tip and review
